@@ -67,3 +67,8 @@ const mapStateToProps = state => ({
 export default connect(
     mapStateToProps
 )(ContactList);
+
+//*const alphaContacts = state => ({
+//  array = [];
+  
+// })
