@@ -22,7 +22,7 @@ The account sign-in and authentication process is **totally managed by Gmail's s
 
   
   
-
+// Make this
 - All Gmail API requests require an ***API Key*** and an ***OAuth 2.0 Client ID***. You can follow [these instructions](https://developers.google.com/fit/android/get-api-key) to obtain those credentials. Then, store those two values in the ***[.env](https://facebook.github.io/create-react-app/docs/adding-custom-environment-variables)*** file located in the root folder by replacing `<YOUR_API_KEY>` and `<YOUR_CLIENT_ID>` respectively.
 
   
